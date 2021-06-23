@@ -32,7 +32,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had challenges getting used to the syntax of Java.
 
 ## License
 
