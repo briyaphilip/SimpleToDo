@@ -26,8 +26,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<href src='https://giphy.com/gifs/IBDp42uAtrv701XL10' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-[Video Walkthrough](https://giphy.com/gifs/IBDp42uAtrv701XL10)
+<href src='https://media.giphy.com/media/IBDp42uAtrv701XL10/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [Kap](https://getkap.co/).
 
